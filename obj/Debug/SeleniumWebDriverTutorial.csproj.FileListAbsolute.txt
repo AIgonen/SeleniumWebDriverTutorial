@@ -1,0 +1,10 @@
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.csproj.AssemblyReference.cache
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.csproj.CoreCompileInputs.cache
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.exe.config
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.exe
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.pdb
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.dll
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.Support.dll
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.csproj.CopyComplete
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.exe
+C:\Users\aigon\source\repos\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.pdb
